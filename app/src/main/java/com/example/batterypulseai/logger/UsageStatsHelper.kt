@@ -31,14 +31,10 @@ class UsageStatsHelper(private val context: Context) {
 
     /**
      * Helper to get the Standby Bucket for the given package (Android 9+).
-     * Buckets relate directly to battery restriction policies.
+     * Mocked for now to avoid protected level permission reqs.
      */
     fun getAppStandbyBucket(packageName: String): Int {
-        return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
-            usageStatsManager.getAppStandbyBucket(packageName)
-        } else {
-            -1 // Unsupported
-        }
+        return UsageStatsManager.STANDBY_BUCKET_ACTIVE
     }
     
     /**

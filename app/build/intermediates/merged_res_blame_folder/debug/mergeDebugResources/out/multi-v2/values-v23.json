@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.batterypulseai.app-mergeDebugResources-49:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/joonkang/.gradle/caches/8.13/transforms/78539fef41ae097f99e96f7070f2cc09/transformed/work-runtime-2.8.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

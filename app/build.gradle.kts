@@ -66,7 +66,7 @@ dependencies {
     implementation("org.tensorflow:tensorflow-lite:2.13.0")
     
     // MPAndroidChart or Compose Charts. Using Compose Charts for better UI feeling.
-    implementation("com.github.tehras:charts:0.2.4.alpha") // Alternatively, write custom canvas
+    // Alternatively, write custom canvas
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
