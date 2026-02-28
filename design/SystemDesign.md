@@ -80,6 +80,8 @@ graph TD
     end
 ```
 
+<img src="./ui_mockup.png" width="400" alt="BatteryPulseAI Dashboard Mockup" />
+
 ### UI Component Details
 1. **Glassmorphic Cards:** High-contrast primary cards for Battery % and Remaining Time to grab immediate attention.
 2. **Dynamic Charts (Agent 3):**
