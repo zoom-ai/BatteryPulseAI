@@ -1,5 +1,13 @@
 # 🔋 BatteryPulseAI
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Android%2015-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 15" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
+  <img src="https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3" />
+</p>
+
 BatteryPulseAI is an intelligent, autonomous agent-based Android application designed to predict battery lifetime and optimize smartphone energy consumption. Built with native Android 15 (Kotlin & Jetpack Compose), it leverages concepts from 2011 prediction papers and modernizes them with LSTM-Transformer models, 5G RRC optimization, comprehensive device state tracking, and On-device AI diagnostics.
 
 ## 🚀 Key Features
